@@ -7,8 +7,13 @@
 .header{
     display: flex;
 }
+.header-title h2{
+    color: lightgray;
+}
 .thumbnail{
     border-radius: 12em;
     height:50%;
     color: white;
+    position: relative;
+    left: 9em;
 }
