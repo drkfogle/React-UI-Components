@@ -1,6 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import './Header.css';
+import './CardContent.css'
+import HeaderContainer from './HeaderContainer';
+import CardContainer from './CardContainer';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+function LambdaSchool() {
+    return(
+        <div>
+            <HeaderContainer />
+            <CardContainer />
+        </div>
+    )
+}
+
+ReactDOM.render(<LambdaSchool />, document.getElementById('root'));

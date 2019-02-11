@@ -1,0 +1,14 @@
+.text{
+    margin: 0 7em;
+}
+.header-title{
+    display: flex;
+}
+.header{
+    display: flex;
+}
+.thumbnail{
+    border-radius: 12em;
+    height:50%;
+    color: white;
+}
