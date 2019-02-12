@@ -5,12 +5,14 @@ import './Header.css';
 import './CardContent.css'
 import HeaderContainer from './HeaderContainer';
 import CardContainer from './CardContainer';
+import Footer from './Footer';
 
 function LambdaSchool() {
     return(
         <div>
             <HeaderContainer />
             <CardContainer />
+            <Footer />
         </div>
     )
 }
