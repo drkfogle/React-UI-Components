@@ -1,0 +1,22 @@
+.number{
+        height: 150px;
+        width: 172px;
+        font-size: 36px;
+}
+
+
+
+.clear{
+    font-size: 71px;
+    background-color: white;
+    height: 150px;
+    width: 516px;
+    text-align: center;
+}
+.action{
+    padding: 50px;
+    background-color: red;
+    font-size: 35px;
+    height: 150px;
+    width: 150px;
+    }
