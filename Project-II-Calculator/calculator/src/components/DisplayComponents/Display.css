@@ -1,0 +1,10 @@
+.display{
+    background-color: black;
+    color: white;
+    width: 646px;
+    height: 100px;
+    margin: 0;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 20px;
+}
